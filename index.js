@@ -2,7 +2,7 @@ const uiNavElements = [
     {title: "Home", link: "/WSOA4175A_1860303/index.html"},
     {title: "Blogs", link: "/WSOA4175A_1860303/Blogs/blogIndex.html"},
     {title: "Internet Art", link: "/WSOA4175A_1860303/Internet Art/artIndex.html"},
-    {title: "About", link: "/WSOA4175A_1860303/About/aboutIndex.html"}
+    {title: "About", link: "#"}
 ]
 
 function displayUiNavElements(){

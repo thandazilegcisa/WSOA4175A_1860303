@@ -1,0 +1,36 @@
+.cards-Container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(245px, 1fr));
+  grid-gap: 25px;
+
+  padding: 45px;
+}
+.card {
+  width: 85%;
+  height: 65%;
+  padding: 15px;
+  margin: 15px;
+}
+.card header h2 {
+  color: #e76f51;
+}
+.readMore {
+  text-decoration: none;
+  font-weight: 500;
+  background-color: #f77f00;
+  color: white;
+
+  opacity: 80%;
+  border-radius: 5px;
+  padding: 8px;
+}
+.readMore-P {
+  color: #264653;
+}
+.moodboard {
+  max-width: 50%;
+  height: auto;
+}
+main {
+  background-color: #fff6d8;
+}
